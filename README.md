@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Otávio Borges
+- 👀 I’m interested in pursuing opportunities in the field of IT, particularly in roles such as Data Analyst, Database Manager, and Back-End Developer.
+- 🌱 I’m currently studying Analysis and Systems Development at UniCEUB, and I am focusing on learning Java and SQL.
